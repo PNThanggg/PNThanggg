@@ -25,6 +25,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pnthanggg&theme=dark" alt="pnthanggg" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PNThanggg/PNThanggg/output/github-contribution-grid-snake.svg">
+</picture>
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
